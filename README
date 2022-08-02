@@ -8,7 +8,7 @@ maven  //you can use "yum install maven -y" for this
 jenkins //follow the installation guideline at https://www.jenkins.io/doc/book/installing/#red-hat-centos
 docker // you can install docker with "yum install -y docker-ce docker-ce-cli containerd.io"
 
-
+EDITED
 
 
 post installing you can fecth the code from github account by clone the repo https://github.com/techlanders/Maven-Project.git
